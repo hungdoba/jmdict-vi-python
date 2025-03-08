@@ -1,0 +1,6 @@
+.venv
+final/
+jmdict/
+jmdict_parts/
+jmdict_vi/
+dict.db
